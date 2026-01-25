@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mansurbek Ergashev</h1>
-<h3 align="center">Frontend Developer from Fergana</h3>
+<h1 align="center">Hi, I'm Mansurbek Ergashev</h1>
+<h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **my little websites**
+- 🔭 I’m currently working on **my websites**
 
 - 🌱 I’m currently learning **Other Frameworks**
 
