@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Other Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://little-p.netlify.app/](https://little-p.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mansurbek-ergashov.vercel.app/](https://mansurbek-ergashov.vercel.app/)
 
 - 💬 Ask me about **React, Next, TypeScript**
 
