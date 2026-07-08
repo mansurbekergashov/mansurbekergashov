@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mansurbek Ergashov</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **my websites**
+- 🔭 I’m currently working on **EduCore CRM**
 
 - 🌱 I’m currently learning **Other Frameworks**
 
